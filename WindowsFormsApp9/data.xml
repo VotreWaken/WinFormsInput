@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<SendInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Waken</Name>
+  <Surname>SurnameExample</Surname>
+  <Patrynomic>PatrynomicExample</Patrynomic>
+  <Gender>Мужской</Gender>
+  <FamilyStatus>Не Женат</FamilyStatus>
+  <AdditionalInfo>Hello World</AdditionalInfo>
+  <DateDay>17</DateDay>
+  <DateMonth>October</DateMonth>
+  <DateYear>2002</DateYear>
+</SendInfo>
